@@ -5,7 +5,7 @@ class AddTodo extends Component {
        const { className } = this.props;
        return (
             <div className={`${className} add-todo`}>
-               <input></input>
+               <input/>
                <button>add todo</button>
             </div>
        )
