@@ -1,15 +1,10 @@
 
-
-
-
 const INITIAL_STATE = {
     items: [
         'learnnn',
         'redux',
-        'state management',
-        'sah dude',
-        'oh asah dude'
-      ]
+        'hmmm'
+    ]
 }
 
 export default function(state = INITIAL_STATE, action) {
