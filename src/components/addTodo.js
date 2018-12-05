@@ -6,7 +6,7 @@ class AddTodo extends Component {
        return (
             <div className={`${className} add-todo`}>
                <input></input>
-               <button></button>
+               <button>add todo</button>
             </div>
        )
    }

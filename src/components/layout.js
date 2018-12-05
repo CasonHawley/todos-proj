@@ -8,7 +8,7 @@ class Layout extends Component {
       <div className='layout'>
         <h1 className='layout__title'>Todo app</h1>
         <AddTodo className='layout__add-todo'/>
-        <Todos/>
+        <Todos className='layout__todos'/>
       </div>
     );
   }
